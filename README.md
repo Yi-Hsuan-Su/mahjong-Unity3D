@@ -1,7 +1,6 @@
+# Introduction
 
-
-
-
+This project is a Taiwanese mahjong game prototype which present few simple mahjong game feature.
 
 # Demonstration
 
